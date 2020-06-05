@@ -118,4 +118,4 @@ async def closeRobinBot(ctx):
     await bot.logout();
     await sys.exit(0)
 
-bot.run("NDMwNTg2OTk0NjY2NzY2MzM3.DaV6Bg.h9BNfDOrPJGIz8Cz3eMxEuGdes0")
+bot.run("")
