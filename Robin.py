@@ -105,7 +105,7 @@ async def info(ctx, user: discord.Member):
 @bot.command(pass_context=True)
 async def Hello(ctx):
     """Hello"""
-    await bot.say("Fuck you")
+    await bot.say("Hello")
 
 @bot.command(pass_context=True)
 async def Forest(ctx,user:discord.Member):
